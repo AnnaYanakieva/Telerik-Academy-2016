@@ -1,3 +1,5 @@
+//Write a program that prints the numbers 1, 101 and 1001, each on a separate line.
+
 using System;
 
 class PrintNumbers
